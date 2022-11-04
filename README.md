@@ -13,9 +13,9 @@
   <img style="width:54px" src="https://img.icons8.com/officel/512/php-logo.png" alt="PHP">
   <img style="width:54px" src="https://img.icons8.com/doodle/512/bash.png" alt="Shell Script">
   <img style="width:54px" src="https://img.icons8.com/color/512/python--v1.png"  alt="Python">
-  <img style="width:54px; background-color: #FFF" src="https://img.icons8.com/ios/512/flask.png" alt="Flask">
+  <img style="width:54px; background-color: #FFFFFF !important;" src="https://img.icons8.com/ios/512/flask.png" alt="Flask">
   <img style="width:54px" src="https://img.icons8.com/fluency/512/my-sql.png" alt="MySQL">
-  <img style="width:54px; background-color: #FFF" src="https://img.icons8.com/color/512/amazon-web-services.png"  alt="AWS">
+  <img style="width:54px; background-color: #FFFFFF !important;" src="https://img.icons8.com/color/512/amazon-web-services.png"  alt="AWS">
   <img style="width:54px" src="https://img.icons8.com/color/512/docker.png" alt="Docker">
   <img style="width:54px" src="https://img.icons8.com/color/512/kubernetes.png" alt="Kubernetes">
   <img style="width:54px" src="https://img.icons8.com/color/512/linux--v1.png" alt="Linux">
