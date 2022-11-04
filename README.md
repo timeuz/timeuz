@@ -8,17 +8,17 @@
 ## Tecnologias que uso no dia a dia
 
 <div style="display: inline_block">
-  <img style="width:54px" src="https://img.icons8.com/color/512/html-5--v1.png" alt="HTML5">
-  <img style="width:54px" src="https://img.icons8.com/stickers/512/css3.png" alt="CSS">
-  <img style="width:54px" src="https://img.icons8.com/officel/512/php-logo.png" alt="PHP">
-  <img style="width:54px" src="https://img.icons8.com/doodle/512/bash.png" alt="Shell Script">
-  <img style="width:54px" src="https://img.icons8.com/color/512/python--v1.png"  alt="Python">
-  <img style="width:54px; background-color: #FFFFFF !important;" src="https://img.icons8.com/ios/512/flask.png" alt="Flask">
-  <img style="width:54px" src="https://img.icons8.com/fluency/512/my-sql.png" alt="MySQL">
-  <img style="width:54px; background-color: #FFFFFF !important;" src="https://img.icons8.com/color/512/amazon-web-services.png"  alt="AWS">
-  <img style="width:54px" src="https://img.icons8.com/color/512/docker.png" alt="Docker">
-  <img style="width:54px" src="https://img.icons8.com/color/512/kubernetes.png" alt="Kubernetes">
-  <img style="width:54px" src="https://img.icons8.com/color/512/linux--v1.png" alt="Linux">
+  <a href="#"><img style="width:54px" src="https://img.icons8.com/color/512/html-5--v1.png" alt="HTML5"></a>
+  <a href="#"><img style="width:54px" src="https://img.icons8.com/stickers/512/css3.png" alt="CSS"></a>
+  <a href="#"><img style="width:54px" src="https://img.icons8.com/officel/512/php-logo.png" alt="PHP"></a>
+  <a href="#"><img style="width:54px" src="https://img.icons8.com/doodle/512/bash.png" alt="Shell Script"></a>
+  <a href="#"><img style="width:54px" src="https://img.icons8.com/color/512/python--v1.png"  alt="Python"></a>
+  <a href="#"><img style="width:54px; background-color: #FFFFFF !important;" src="https://img.icons8.com/ios/512/flask.png" alt="Flask"></a>
+  <a href="#"><img style="width:54px" src="https://img.icons8.com/fluency/512/my-sql.png" alt="MySQL"></a>
+  <a href="#"><img style="width:54px; background-color: #FFFFFF !important;" src="https://img.icons8.com/color/512/amazon-web-services.png"  alt="AWS"></a>
+  <a href="#"><img style="width:54px" src="https://img.icons8.com/color/512/docker.png" alt="Docker"></a>
+  <a href="#"><img style="width:54px" src="https://img.icons8.com/color/512/kubernetes.png" alt="Kubernetes"></a>
+  <a href="#"><img style="width:54px" src="https://img.icons8.com/color/512/linux--v1.png" alt="Linux"></a>
 </div>
 
 <div style="text-align:center">
