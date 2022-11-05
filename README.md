@@ -29,5 +29,5 @@ The roots evolving<br>
 The seeds for the future were scattered yesterday<br>
 Tomorrow's harvest field we plant today
 </p>
-🎶
+<a href="#"><img style="width:54px" src="https://opengameart.org/sites/default/files/tux-wave.gif" alt="Tux waving"></a>
 </div>
