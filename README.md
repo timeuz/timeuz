@@ -21,10 +21,10 @@
   <a href="#"><img style="width:54px" src="https://img.icons8.com/color/512/linux--v1.png" alt="Linux"></a>
 </div>
 
-<div style="text-align:center;">
+<div align="center">
 <br>
 🎶
-<p style="text-align=center;">Sprouts of time<br>
+<p>Sprouts of time<br>
 The roots evolving<br>
 The seeds for the future were scattered yesterday<br>
 Tomorrow's harvest field we plant today
